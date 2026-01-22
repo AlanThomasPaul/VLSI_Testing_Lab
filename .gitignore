@@ -1,0 +1,12 @@
+# Compiled outputs
+a.out
+*.vcd
+
+# Synthesis / tool junk
+*.log
+*.tmp
+*.aux
+
+# OS files
+.DS_Store
+
