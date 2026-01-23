@@ -9,7 +9,7 @@ synthesis and **Modus** for FULLSCAN DFT.
 
 ### 1. Environment Setup
 ```bash
-ssh user5@192.168.135.158
+ssh user5@***.***.***.***
 mkdir work
 csh
 source /home/install/cshrc
