@@ -1,18 +1,14 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-# VLSI_Testing_Lab
-=======
->>>>>>> 5bc6394 (Add adder and counter RTL, synthesis, and testbench files)
-# VLSI Testing Lab
+# VLSI Testing & Verification Flows
 
-This repository contains multiple VLSI testing experiments implemented using Verilog.
+This repository demonstrates RTL design, synthesis, DFT, and
+formal verification flows using industry-standard tools.
 
-## Experiments
-1. Counter Design and Verification
-2. Adder Design and Synthesis
+## Projects
+- addr: Adder design with Genus synthesis + RTL-to-gate FV
+- counter: Counter design with RTL, synthesis, and testbench
 
-<<<<<<< HEAD
-=======
->>>>>>> 3db51a5 (Add VLSI testing lab with counter and adder experiments)
->>>>>>> 5bc6394 (Add adder and counter RTL, synthesis, and testbench files)
+## Tools
+- Cadence Genus (Synthesis)
+- Cadence Modus (DFT / ATPG)
+- Cadence Formal Verification
+

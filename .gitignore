@@ -1,10 +1,14 @@
-# Simulation outputs
+# binaries
 a.out
+
+# waveforms
 *.vcd
 
-# Logs
+# logs
 *.log
+*.rpt
 
-# OS / editor junk
-.DS_Store
+# temp files
+*~
+*.swp
 
